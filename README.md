@@ -18,7 +18,7 @@ We supply the basic book anatomy, means to convert your pages into a book, and a
 
 ## Chapters
 * [chapter.01](text/chapter.01.md)
-* chapter.02
+* [chapter.02](text/chapter.02.md)
 * chapter.03
 * ... etc.
 
