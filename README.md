@@ -3,9 +3,9 @@ This is a lightweight tool to help you get started writing a book, and is design
 
 It is a *free* and open source book writing tool.
 
-We supply the basic book anatomy, means to convert your pages into a book, and a method to convert it into publisher friendly formats.
+**We** supply the basic book anatomy, means to convert your pages into a book, and a method to convert it into publisher friendly formats.
 
-You supply the awesome book content and git repository.
+**You** supply the awesome book content and git repository.
 
 # Why write books in Markdown and then store in Git?
 * Markdown is easy to transpile into many types of publisher compatible formats
