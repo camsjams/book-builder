@@ -3,9 +3,15 @@ This is a light framework to help you get started writing a book, and is designe
 
 It is a *free* and open source book writing tool.
 
-# Main book portions
+# Why write books in git?
+
+# Anatomy of a Book Builder book
 
 ###
+
+## Platforms / Technologies
+* [Node.js](http://nodejs.org/) - TBD
+* [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 ## Current Version 0.0.1
 
