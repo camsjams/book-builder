@@ -38,11 +38,14 @@ We supply the basic book anatomy, means to convert your pages into a book, and a
 * [glossary](sections/glossary.md)
 * [index](sections/index.md)
 * [preface](sections/preface.md)
+* [other-books](sections/other-books.md)
 * [special-thanks](sections/special-thanks.md)
+* [title](sections/title.md)
 
-## Platforms / Technologies
-* [Node.js](http://nodejs.org/) - TBD
-* [Markdown](https://en.wikipedia.org/wiki/Markdown)
+## Book Builder setup
+* Fork or `git clone` the book builder repo
+* update the `package.json` to use your repo names
+* update the `package.json:bookTitle` to the name of your book
 
 Dependencies: Node.js 10+, npm, grunt
 >       $ npm install grunt-cli -g
@@ -50,10 +53,14 @@ Dependencies: Node.js 10+, npm, grunt
 Install dependencies
 >       $ npm install
 
-Build
+Build a book
 >       $ grunt
 
-## Current Release v1.0.0
+## Platforms / Technologies
+* [Node.js](http://nodejs.org/) - TBD
+* [Markdown](https://en.wikipedia.org/wiki/Markdown)
+
+## Current Release v1.1.0
 
 ### Roadmap
 
@@ -63,11 +70,11 @@ v1.0.0
 v1.1.0
 * script to generate a basic book from the markdown files
 
-v1.1.0
+v1.2.0
 * script to generate a table of contents from the markdown files
 
-v1.2.0
-* script to generate an index and glossary from the markdown files
+v1.3.0
+* script to assist in creation of the index from the markdown files
 
 v2.0.0
 * script to generate an approved book format for the final document
