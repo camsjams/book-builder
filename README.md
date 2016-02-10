@@ -44,8 +44,8 @@ We supply the basic book anatomy, means to convert your pages into a book, and a
 
 ## Book Builder setup
 * Fork or `git clone` the book builder repo
-* update the `package.json` to use your repo names
-* update the `package.json:bookTitle` to the name of your book
+* update the [package.json](package.json) to use your repo names
+* update the [package.json:bookTitle](package.json#L3) to the name of your book
 
 Dependencies: Node.js 10+, npm, grunt
 >       $ npm install grunt-cli -g
