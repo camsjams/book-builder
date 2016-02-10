@@ -77,7 +77,13 @@ v1.2.0
 * script to generate a table of contents from the markdown files
 
 v1.3.0
+* add support for charts, maps, image files
+
+v1.4.0
 * script to assist in creation of the index from the markdown files
+
+v1.5.0
+* add support for Markdown styling via CSS or the like
 
 v2.0.0
 * script to generate an approved book format for the final document
