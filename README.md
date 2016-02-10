@@ -5,7 +5,8 @@ It is a *free* and open source book writing tool.
 
 We supply the basic book anatomy, means to convert your pages into a book, and a method to convert it into publisher friendly formats.
 
-# Why write books in Git?
+# Why write books in Markdown and then store in Git?
+* Markdown is easy to transpile into many types of publisher compatible formats
 * Easy to update
 * Easy to "branch off" into new ideas
 * Easy to see the changes in each version
@@ -41,9 +42,9 @@ We supply the basic book anatomy, means to convert your pages into a book, and a
 * [Node.js](http://nodejs.org/) - TBD
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
-## Current Version 0.0.1
+## Current Release v1.0.0
 
-## Roadmap
+### Roadmap
 
 v1.0.0
 * basic book anatomy
