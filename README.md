@@ -63,7 +63,7 @@ Build a book
 * [Grunt](http://gruntjs.com/)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
-## Current Release v1.1.0
+## Current Release v1.1.1
 
 ### Roadmap
 
