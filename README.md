@@ -24,7 +24,7 @@ We supply the basic book anatomy, means to convert your pages into a book, and a
 
 ## Appendices
 * [appendix.a](appendices/appendix.a.md)
-* appendix.b
+* [appendix.b](appendices/appendix.b.md)
 * appendix.c
 * ... etc.
 
