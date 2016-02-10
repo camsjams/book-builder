@@ -15,7 +15,7 @@ module.exports = function(grunt) {
             // charts/maps
             'sections/foreword.md',
             'sections/preface.md',
-            'text/chapters.*.md',
+            'text/chapter.*.md',
             'sections/afterword.md',
             'appendices/appendix.*.md',
             'sections/glossary.md',
