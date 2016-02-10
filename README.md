@@ -57,7 +57,8 @@ Build a book
 >       $ grunt
 
 ## Platforms / Technologies
-* [Node.js](http://nodejs.org/) - TBD
+* [Node.js](http://nodejs.org/)
+* [Grunt](http://gruntjs.com/)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 ## Current Release v1.1.0
