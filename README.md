@@ -44,6 +44,15 @@ We supply the basic book anatomy, means to convert your pages into a book, and a
 * [Node.js](http://nodejs.org/) - TBD
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
+Dependencies: Node.js 10+, npm, grunt
+>       $ npm install grunt-cli -g
+
+Install dependencies
+>       $ npm install
+
+Build
+>       $ grunt
+
 ## Current Release v1.0.0
 
 ### Roadmap

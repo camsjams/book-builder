@@ -4,7 +4,7 @@ module.exports = function(grunt) {
 
     function getBookConfig() {
         var files = {files: {}};
-        var bookName = 'dist/' + pkg.name + '.md';
+        var bookName = 'dist/' + pkg.bookTitle + '.md';
         files.files[bookName] = [
             // title
             // other books by this author

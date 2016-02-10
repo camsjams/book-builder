@@ -1,5 +1,6 @@
 {
-    "name": "Book Builder",
+    "name": "book-builder",
+    "bookTitle": "My Sample Book Builder book",
     "version": "1.1.0",
     "description": "This serves to help you get started writing a book, and is designed to let you version control your documents",
     "repository": {
