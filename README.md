@@ -32,11 +32,13 @@ We supply the basic book anatomy, means to convert your pages into a book, and a
 * [acknowledgements](sections/acknowledgements.md)
 * [afterword](sections/afterword.md)
 * [bibliography](sections/bibliography.md)
+* [biography](sections/biography.md)
 * [dedication](sections/dedication.md)
 * [foreword](sections/foreword.md)
 * [glossary](sections/glossary.md)
 * [index](sections/index.md)
 * [preface](sections/preface.md)
+* [special-thanks](sections/special-thanks.md)
 
 ## Platforms / Technologies
 * [Node.js](http://nodejs.org/) - TBD
