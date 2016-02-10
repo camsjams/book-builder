@@ -1,0 +1,22 @@
+{
+    "name": "book-builder",
+    "bookTitle": "My Sample Book Builder book",
+    "version": "1.1.0",
+    "description": "This serves to help you get started writing a book, and is designed to let you version control your documents",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/camsjams/book-builder"
+    },
+    "author": "Cameron Manavian",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/camsjams/book-builder/issues"
+    },
+    "homepage": "https://github.com/camsjams/book-builder",
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-contrib-concat": "^0.5.1",
+        "load-grunt-tasks": "^3.4.0"
+    }
+}
