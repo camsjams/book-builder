@@ -1,9 +1,11 @@
 # Book Builder
-This is a light framework to help you get started writing a book, and is designed to let you version control your documents.
+This is a lightweight tool to help you get started writing a book, and is designed to let you version control your documents.
 
 It is a *free* and open source book writing tool.
 
-We supply the basic book anatomy, means to convert your pages into a book, and a method to convert it into publisher friendly formats.
+**We** supply the basic book anatomy, means to convert your pages into a book, and a method to convert it into publisher friendly formats.
+
+**You** supply the awesome book content and git repository.
 
 # Why write books in Markdown and then store in Git?
 * Markdown is easy to transpile into many types of publisher compatible formats
@@ -18,13 +20,13 @@ We supply the basic book anatomy, means to convert your pages into a book, and a
 
 ## Chapters
 * [chapter.01](text/chapter.01.md)
-* chapter.02
+* [chapter.02](text/chapter.02.md)
 * chapter.03
 * ... etc.
 
 ## Appendices
 * [appendix.a](appendices/appendix.a.md)
-* appendix.b
+* [appendix.b](appendices/appendix.b.md)
 * appendix.c
 * ... etc.
 
@@ -44,8 +46,8 @@ We supply the basic book anatomy, means to convert your pages into a book, and a
 
 ## Book Builder setup
 * Fork or `git clone` the book builder repo
-* update the `package.json` to use your repo names
-* update the `package.json:bookTitle` to the name of your book
+* update the [package.json](package.json) to use your repo names
+* update the [package.json:bookTitle](package.json#L3) to the name of your book
 
 Dependencies: Node.js 10+, npm, grunt
 >       $ npm install grunt-cli -g
@@ -57,10 +59,11 @@ Build a book
 >       $ grunt
 
 ## Platforms / Technologies
-* [Node.js](http://nodejs.org/) - TBD
+* [Node.js](http://nodejs.org/)
+* [Grunt](http://gruntjs.com/)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
-## Current Release v1.1.0
+## Current Release v1.1.1
 
 ### Roadmap
 
@@ -74,7 +77,13 @@ v1.2.0
 * script to generate a table of contents from the markdown files
 
 v1.3.0
+* add support for charts, maps, image files
+
+v1.4.0
 * script to assist in creation of the index from the markdown files
+
+v1.5.0
+* add support for Markdown styling via CSS or the like
 
 v2.0.0
 * script to generate an approved book format for the final document
